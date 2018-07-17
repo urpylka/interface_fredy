@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface_fredy", "interface_fredy\interface_fredy.csproj", "{A729E90D-2620-4505-8806-A88C3661C0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A729E90D-2620-4505-8806-A88C3661C0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A729E90D-2620-4505-8806-A88C3661C0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A729E90D-2620-4505-8806-A88C3661C0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A729E90D-2620-4505-8806-A88C3661C0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
